@@ -1,22 +1,22 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,50:9D4EDD,100:4361EE&height=210&section=header&text=HIMAA09&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=37&desc=3D%20ARTIST%20%7C%20GAME%20DEVELOPER&descSize=17&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,50:9D4EDD,100:4361EE&height=210&section=header&text=HIMAA09&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=37&desc=3D%20ARTIST%20%7C%20DIGITAL%20CREATOR&descSize=17&descAlignY=60" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=900&color=E879F9&center=true&vCenter=true&width=700&lines=Welcome+to+my+creative+universe;3D+Modeling+%E2%9C%A6+Game+Art;Creating+worlds+from+polygons;Art.+Code.+Imagination." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=900&color=E879F9&center=true&vCenter=true&width=700&lines=Welcome+to+my+creative+universe;3D+Modeling+%E2%9C%A6+Digital+Art;Creating+worlds+from+polygons;Imagine.+Model.+Create." />
 
 <br/><br/>
 
-<img width="100%" src="./assets/banner.png" alt="HIMAA09 3D Art Banner" />
+<img width="100%" src="./assets/banner.png" alt="HIMAA09 3D Artist Banner" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=himaa09&label=PROFILE+VIEWS&color=9D4EDD&style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/3D-ARTIST-FF4ECD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GAME-DEVELOPER-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/3D_ARTIST-FF4ECD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DIGITAL_CREATOR-7C3AED?style=for-the-badge" />
 
 </div>
 
@@ -28,33 +28,37 @@
 
 ### Hey, I'm HIMAA09!
 
-**3D Artist • Game Developer • Digital Creator**
+**3D Artist • 3D Modeler • Digital Creator**
 
-I create 3D models, experiment with game development
-and bring creative ideas into digital worlds.
+I create 3D models, explore digital worlds,
+and transform ideas into visual art.
 
-From simple shapes to detailed environments,
-I enjoy every part of the creative process.
+From simple shapes to detailed characters,
+props and environments.
 
-`Create` ✦ `Experiment` ✦ `Improve`
+I believe every polygon tells a story.
+
+<br/>
+
+`Imagine` ✦ `Model` ✦ `Create`
 
 </div>
 
 ---
 
-<h2 align="center">✦ CREATIVE TOOLKIT ✦</h2>
+<h2 align="center">✦ CREATIVE UNIVERSE ✦</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,python,git,github,vscode,visualstudio&theme=dark" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/3D_MODELING-BD4BFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GAME_ART-FF4ECD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UNITY-171717?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-7027B0?style=for-the-badge&logo=sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/CHARACTER_ART-FF4ECD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ENVIRONMENT_ART-4361EE?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/PROPS_&_ASSETS-9D4EDD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TEXTURING-E879F9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RENDERING-6D28D9?style=for-the-badge" />
 
 </div>
 
@@ -64,40 +68,75 @@ I enjoy every part of the creative process.
 
 <div align="center">
 
-| 🎨 3D Modeling | 🎮 Game Development |
+| 🎭 Character Modeling | 🏙️ Environment Art |
 |:---:|:---:|
-| Characters, props & assets | Interactive experiences with Unity |
-| **🌌 Environment Art** | **💻 Creative Coding** |
-| Scenes, worlds & visual concepts | Python, C# & experiments |
+| Stylized characters & creatures | Scenes, buildings & worlds |
+| **🧊 Props & Assets** | **🎨 Materials & Textures** |
+| Objects and 3D assets | Surfaces, details & visual styles |
+| **✨ Rendering** | **🌌 Digital Art** |
+| Lighting & presentation | Creative 3D compositions |
 
 </div>
 
 ---
 
-<h2 align="center">✦ 3D ART GALLERY ✦</h2>
+<h2 align="center">✦ MY 3D PORTFOLIO ✦</h2>
 
 <div align="center">
 
-<!-- Replace these placeholders with your renders -->
+### 🎨 Selected Works
+
+*Every model starts with an idea.*
 
 | PROJECT 01 | PROJECT 02 |
 |:---:|:---:|
-| 🎨 Character / Prop | 🌌 Environment / Scene |
+| Character / Prop | Environment / Scene |
 | *Coming soon* | *Coming soon* |
 
-**More creations on the way...**
+| PROJECT 03 | PROJECT 04 |
+|:---:|:---:|
+| Stylized 3D Art | Creative Experiment |
+| *Coming soon* | *Coming soon* |
+
+<br/>
+
+**More 3D creations coming soon...**
 
 </div>
 
 ---
 
-<h2 align="center">✦ GITHUB STATS ✦</h2>
+<h2 align="center">✦ ARTISTIC WORKFLOW ✦</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himaa09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4ECD&icon_color=BD4BFF&text_color=FFFFFF" />
+<img src="https://img.shields.io/badge/01-CONCEPT-FF4ECD?style=for-the-badge" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaa09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4ECD&text_color=FFFFFF" />
+⬇
+
+<img src="https://img.shields.io/badge/02-MODELING-BD4BFF?style=for-the-badge" />
+
+⬇
+
+<img src="https://img.shields.io/badge/03-TEXTURING-9D4EDD?style=for-the-badge" />
+
+⬇
+
+<img src="https://img.shields.io/badge/04-LIGHTING-6D28D9?style=for-the-badge" />
+
+⬇
+
+<img src="https://img.shields.io/badge/05-RENDERING-4361EE?style=for-the-badge" />
+
+</div>
+
+---
+
+<h2 align="center">✦ GITHUB ACTIVITY ✦</h2>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=himaa09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4ECD&icon_color=BD4BFF&text_color=FFFFFF" />
 
 <br/><br/>
 
@@ -113,11 +152,11 @@ I enjoy every part of the creative process.
 
 ### "Every great world starts with a single polygon."
 
-🎨 **Imagine** → 🧊 **Model** → ✨ **Create**
+🎨 **Imagine** → 🧊 **Model** → ✨ **Render**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=FF4ECD&center=true&width=550&lines=Always+creating+something+new...;Never+stop+learning.;See+you+in+the+next+world!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=FF4ECD&center=true&width=550&lines=Always+creating+something+new...;Art+has+no+limits.;See+you+in+the+next+world!" />
 
 <br/>
 
