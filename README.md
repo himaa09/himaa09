@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,50:9D4EDD,100:4361EE&height=210&section=header&text=HIMAA09&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=37&desc=3D%20ARTIST%20%7C%20DIGITAL%20CREATOR&descSize=17&descAlignY=60" />
@@ -14,7 +13,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=himaa09&label=PROFILE+VIEWS&color=9D4EDD&style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/3D_ARTIST-FF4ECD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DIGITAL_CREATOR-7C3AED?style=for-the-badge" />
 
@@ -30,10 +28,10 @@
 
 **3D Artist • 3D Modeler • Digital Creator**
 
-I create 3D models, explore digital worlds,
+I create 3D models, explore digital worlds,  
 and transform ideas into visual art.
 
-From simple shapes to detailed characters,
+From simple shapes to detailed characters,  
 props and environments.
 
 I believe every polygon tells a story.
@@ -46,17 +44,23 @@ I believe every polygon tells a story.
 
 ---
 
-<h2 align="center">✦ CREATIVE UNIVERSE ✦</h2>
+<h2 align="center">✦ TOOLS & PIPELINE ✦</h2>
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=blender,unity,git,github&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/UNITY-111111?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/3D_MODELING-BD4BFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CHARACTER_ART-FF4ECD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ENVIRONMENT_ART-4361EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GAME_ASSETS-FF4ECD?style=for-the-badge" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/PROPS_&_ASSETS-9D4EDD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CHARACTER_ART-9D4EDD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ENVIRONMENT_ART-4361EE?style=for-the-badge" />
 <img src="https://img.shields.io/badge/TEXTURING-E879F9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RENDERING-6D28D9?style=for-the-badge" />
 
@@ -71,8 +75,8 @@ I believe every polygon tells a story.
 | 🎭 Character Modeling | 🏙️ Environment Art |
 |:---:|:---:|
 | Stylized characters & creatures | Scenes, buildings & worlds |
-| **🧊 Props & Assets** | **🎨 Materials & Textures** |
-| Objects and 3D assets | Surfaces, details & visual styles |
+| **🧊 Props & Assets** | **🎮 Game-Ready Content** |
+| Objects and 3D assets | Models prepared for interactive projects |
 | **✨ Rendering** | **🌌 Digital Art** |
 | Lighting & presentation | Creative 3D compositions |
 
@@ -95,7 +99,7 @@ I believe every polygon tells a story.
 
 | PROJECT 03 | PROJECT 04 |
 |:---:|:---:|
-| Stylized 3D Art | Creative Experiment |
+| Stylized 3D Art | Game Asset |
 | *Coming soon* | *Coming soon* |
 
 <br/>
@@ -114,7 +118,7 @@ I believe every polygon tells a story.
 
 ⬇
 
-<img src="https://img.shields.io/badge/02-MODELING-BD4BFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-BLENDER_MODELING-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 
 ⬇
 
@@ -122,7 +126,7 @@ I believe every polygon tells a story.
 
 ⬇
 
-<img src="https://img.shields.io/badge/04-LIGHTING-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-UNITY_INTEGRATION-111111?style=for-the-badge&logo=unity&logoColor=white" />
 
 ⬇
 
