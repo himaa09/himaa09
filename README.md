@@ -9,12 +9,36 @@
 
 <img src="./assets/banner.png" width="100%" alt="Anime developer banner"/>
 
+
 ### 🌙 About Me
 
-`Developer` · `AI Enthusiast` · `Creative Mind`
+```yaml
+username: himaa09
+role: Developer
+languages:
+  - Python
+  - C#
+game_engine: Unity
+interests:
+  - Game Development
+  - AI
+  - Creative Projects
+```
 
-Exploring technology, building projects  
-and turning ideas into reality.
+### ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,unity,git,github,vscode,visualstudio&theme=dark" />
+</p>
+
+### 🎮 What I Do
+
+- 🎮 Game development with Unity and C#
+- 🐍 Python programming
+- 🤖 Exploring AI-powered development
+- 🌌 Creating and experimenting with new ideas
+
+---
 
 ---
 
